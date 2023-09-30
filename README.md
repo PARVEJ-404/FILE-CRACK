@@ -24,9 +24,11 @@ pip install bs4
 
 pkg install git
 
+rm -rf FILE-CRACK
+
 git clone https://github.com/PARVEJ-404/FILE-CRACK
 
 cd FILE-CRACK
 
-python CRACK.py
+python FILE-CRACK.py
 # FILE-CRACK
